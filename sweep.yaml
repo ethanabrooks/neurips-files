@@ -1,0 +1,10 @@
+method: grid
+parameters:
+  events:
+    values:
+    - "long-jump-bak/olsk/0"
+    - "long-jump-bak/olsk/1"
+    - "long-jump-bak/olsk/2"
+    - "long-jump-bak/olsk/3"
+    - "long-jump-bak/olsk/4"
+program: upload_to_wandb.py
